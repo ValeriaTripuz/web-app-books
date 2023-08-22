@@ -10,6 +10,5 @@ This resource allows you to find books to your taste. You can track the number o
 - TypeScript
 - React Router
 - Redux
-- Postman
 - Material UI
 - Styled Components
